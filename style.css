@@ -784,7 +784,7 @@ h3 {
 }
 
 .tc-white {
-    color: #FFD760!important;
+    color: #F3976C!important;
 }
 
 .btn-atomic-tangerine {
@@ -799,6 +799,14 @@ h3 {
 
 .ltc-white {
     color: #FFFFFF!important;
+}
+.black
+{
+    color: black;
+}
+.white
+{
+    color:white;
 }
 
 .ltc-white:hover {
